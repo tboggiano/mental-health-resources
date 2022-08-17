@@ -16,6 +16,10 @@ I ask if you are going to contribute to this list to if it something that doesn'
 - The Data Platform WTI Virtual Group hosted a second day of sessions on mental and wellness.  Here is the link to hte the [playlist]().
 
 ## Community Podcasts
+- [SQL Data Partners Episode 231 Mental Health and Wellness in IT](https://sqldatapartners.com/2021/08/11/episode-231-mental-health-and-wellness-in-it/)
+
+## Community Blogs
+- Mark Vaillancourt(https://twitter.com/cantjuggle) - Has a website.[https://cantjuggle.com/](https://cantjuggle.com/)
 
 ## Other Blogs
 - A Programmer Burnout Story; How to Recognize it And Avoid it - [https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/](https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/)
@@ -34,11 +38,12 @@ I ask if you are going to contribute to this list to if it something that doesn'
 
 ## Other Presensations
 
-## Other Podcasts
+## Other Podcasts (Links forthcoming)
 - The Anxious Achievers
 - DBSAlliance
+- DepreshPod
 - The Happiness Lab with Dr. Lauire Santos
-- The Hilarious World of Depression
+- The Hilarious World of Depression (on longer active but "hilarious")
 - Live Happy Now
 - Mental Illness Happy Hour (NSFW)
 - Neurodiversity at Work; Eliminating Kryptonite, Enabling Superheroes
