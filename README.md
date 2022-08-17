@@ -4,20 +4,18 @@ I was speaking to a SQL Community member, [Dale Hirt](https://twitter.com/DaleHi
 I ask if you are going to contribute to this list to if it something that doesn't fall under something a community member has contribute you describe it's value.
 
 ## Community Member's Blog Posts
-
-## Community Presentations
-- The DATA Platform WIT Virtual Group hosted a full day of sessions on mental health and wellness which just happens to include the best redention of my orginal mental health presentation.  Here is the link to the [playlist](https://www.youtube.com/playlist?list=PLdOB6qRlYKU4apKvz_YomPQ-3GtHeNe7v). 
-- The Data Platform WTI Virtual Group hosted a second day of sessions on mental and wellness.  Here is the link to hte the [playlist]().
-
-## Community Podcasts
-
-## Community Blog Posts
 - Tracy Boggiano - [https://tracyboggiano.com/archive/2020/03/living-with-bipolar-during-a-pandemic/](https://tracyboggiano.com/archive/2020/03/living-with-bipolar-during-a-pandemic/)
 - Kellyn Pot’Vin Gorman - [https://dbakevlar.com/2019/12/adhd-and-certification-tests-a-tale-of-disaster/](https://dbakevlar.com/2019/12/adhd-and-certification-tests-a-tale-of-disaster/)
 - Eugene Meidinger- [https://www.sqlgene.com/2018/11/06/how-i-deal-with-depression/](https://www.sqlgene.com/2018/11/06/how-i-deal-with-depression/)
 - Matthew Roche - [https://ssbipolar.com/2018/10/28/talking-about-mental-health-is-important/](https://ssbipolar.com/2018/10/28/talking-about-mental-health-is-important/)
 - Mark Vaillancourt - [https://markvsql.com/2017/10/a-bully-and-a-hero-depression-and-my-daughter/](https://markvsql.com/2017/10/a-bully-and-a-hero-depression-and-my-daughter/)
 - Taiob Ali – [https://sqlworldwide.com/tsql-tuesday-132-roundup/](https://sqlworldwide.com/tsql-tuesday-132-roundup/) - The community got together for a blog party on mental health during the middle of the pandemic.
+
+## Community Presentations
+- The DATA Platform WIT Virtual Group hosted a full day of sessions on mental health and wellness which just happens to include the best redention of my orginal mental health presentation.  Here is the link to the [playlist](https://www.youtube.com/playlist?list=PLdOB6qRlYKU4apKvz_YomPQ-3GtHeNe7v). 
+- The Data Platform WTI Virtual Group hosted a second day of sessions on mental and wellness.  Here is the link to hte the [playlist]().
+
+## Community Podcasts
 
 ## Other Blogs
 - A Programmer Burnout Story; How to Recognize it And Avoid it - [https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/](https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/)
