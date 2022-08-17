@@ -24,6 +24,9 @@ I ask if you are going to contribute to this list to if it something that doesn'
 ## Other Blogs
 - A Programmer Burnout Story; How to Recognize it And Avoid it - [https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/](https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/)
 
+## Training
+- [Mental Health First Aid](https://www.mentalhealthfirstaid.org/) - I told [Rob Farley](https://twitter.com/rob_farley) this has to be his country's, Australia, greatest contribution to helping those with mental illness.  So if you ever wanted to know how to help some in crisis look at getting mental health first aid certified.  I have it both for youth and adults.
+
 ## Websites
 - 7 Areas of mental wellbeing to nurture while working in self-isolation - [https://fowinsights.com/insights/wellbeing/7-areas-mental-wellbeing-nurture-working-self-isolation/](https://fowinsights.com/insights/wellbeing/7-areas-mental-wellbeing-nurture-working-self-isolation/)
 - 9 Ways To Fight Mental Health Stigma - [https://www.nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma](https://www.nami.org/blogs/nami-blog/october-2017/9-ways-to-fight-mental-health-stigma)
