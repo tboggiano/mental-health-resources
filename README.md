@@ -1,5 +1,5 @@
 # Mental Health Resources
-I was speaking to a SQL Community member a few months back and came up with the idea of putting up a mental health resource page on my blog and well I procrasinated.  Then today I started and got the idea to host on GitHub instead so others could add things they find valuable.  More to come this is just my first stab so stay posted.
+I was speaking to a SQL Community member, [Dale Hirt](https://twitter.com/DaleHirt), a few months back and came up with the idea of putting up a mental health resource page on my blog and well I procrasinated.  Then today I started and got the idea to host on GitHub instead so others could add things they find valuable.  More to come this is just my first stab so stay posted.
 
 I ask if you are going to contribute to this list to if it something that doesn't fall under something a community member has contribute you describe it's value.
 
