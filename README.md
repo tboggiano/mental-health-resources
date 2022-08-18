@@ -22,7 +22,7 @@ I ask if you are going to contribute to this list to if it something that doesn'
 - [SQL Data Partners Episode 231 Mental Health and Wellness in IT](https://sqldatapartners.com/2021/08/11/episode-231-mental-health-and-wellness-in-it/)
 
 ## Community Blogs
-- Mark Vaillancourt(https://twitter.com/cantjuggle) - Has a website [Can't Juggle](https://cantjuggle.com/).  Mark is living with Depression and Anxiety and has several shipping containers worth of childhood trauma. He blogs about his experiences and things he has learned along the way, combining humor with pain to create a balanced breakfast.
+- [Mark Vaillancourt](https://twitter.com/cantjuggle) - Has a website [Can't Juggle](https://cantjuggle.com/).  Mark is living with Depression and Anxiety and has several shipping containers worth of childhood trauma. He blogs about his experiences and things he has learned along the way, combining humor with pain to create a balanced breakfast.
 
 ## Other Blog Posts
 - [A Programmer Burnout Story; How to Recognize it And Avoid it](https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/)
