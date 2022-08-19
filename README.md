@@ -30,6 +30,7 @@ I ask if you are going to contribute to this list to if it something that doesn'
 - [A Programmer Burnout Story; How to Recognize it And Avoid it](https://www.coderhood.com/a-programmer-burnout-story-how-to-recognize-it-and-avoid-it/)
 
 ## Other Blogs
+- [Natasha Tracy's Blog on Bipolar](https://natashatracy.com/)
 
 ## Training
 - [Mental Health First Aid](https://www.mentalhealthfirstaid.org/) - I told [Rob Farley](https://twitter.com/rob_farley) this has to be his country's, Australia, greatest contribution to helping those with mental illness.  So if you ever wanted to know how to help some in crisis look at getting mental health first aid certified.  I have it both for youth and adults.
