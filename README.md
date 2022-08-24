@@ -5,14 +5,14 @@ Now if pull requests seem like to much of a hassle for something small I don't m
 
 I ask if you are going to contribute to this list to if it something that doesn't fall under something a community member has contribute you describe it's value.
 
-# In A Crisis Please Go Hear and Find a Number to Call and Ask for Help
+# In A Crisis Please Go Here and Find a Number to Call and Ask for Help
 - [Mental Health Hotline Numbers and Referral Resources](https://www.healthyplace.com/other-info/resources/mental-health-hotline-numbers-and-referral-resources)
 
 ## Community Member's Blog Posts
 - [Taiob Ali](https://twitter.com/SqlWorldWide) – [T-SQL Tuesday #132 Roundup](https://sqlworldwide.com/tsql-tuesday-132-roundup/) - The community got together for a blog party on mental health during the middle of the pandemic.  There are 21 blog posts from the community for you to read here.
 - [Tracy Boggiano](https://twitter.com/TracyBoggiano) - [Living with Bipolar During a Pandemic](https://tracyboggiano.com/archive/2020/03/living-with-bipolar-during-a-pandemic/)
 - [Kellyn Pot’Vin Gorman](https://twitter.com/DBAKevlar) - [ADHD and Certification Tests- A Tale of Disaster](https://dbakevlar.com/2019/12/adhd-and-certification-tests-a-tale-of-disaster/)
-- [Eugene Meidinger](https://twitter.com/sqlgene) - [How I deal with depression](https://www.sqlgene.com/2018/11/06/how-i-deal-with-depression/)
+- [Eugene Meidinger](https://twitter.com/sqlgene) - [How I deal with depression](https://www.sqlgeCancel changesne.com/2018/11/06/how-i-deal-with-depression/)
 - [Matthew Roche](https://twitter.com/SQLAllFather) - [Talking About Mental Health is Important](https://ssbipolar.com/2018/10/28/talking-about-mental-health-is-important/)
 - [Mark Vaillancourt](https://twitter.com/markvsql) - [A Bully and a Hero: Depression and My Daughter](https://markvsql.com/2017/10/a-bully-and-a-hero-depression-and-my-daughter/)
 
