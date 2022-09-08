@@ -11,6 +11,7 @@ I ask if you are going to contribute to this list to if it something that doesn'
 ## Community Member's Blog Posts
 - [Taiob Ali](https://twitter.com/SqlWorldWide) – [T-SQL Tuesday #132 Roundup](https://sqlworldwide.com/tsql-tuesday-132-roundup/) - The community got together for a blog party on mental health during the middle of the pandemic.  There are 21 blog posts from the community for you to read here.
 - [Tracy Boggiano](https://twitter.com/TracyBoggiano) - [Living with Bipolar During a Pandemic](https://tracyboggiano.com/archive/2020/03/living-with-bipolar-during-a-pandemic/)
+- [Tracy Boggiano](https://twitter.com/TracyBoggiano) - [Mental Health Bullet Journal – Collect Data to Help Your Mental Health](https://tracyboggiano.com/archive/2022/09/mental-health-bullet-journal-collect-data-to-help-your-mental-health/)
 - [Kurt Buhler](https://twitter.com/kurtbuhler) - [You can do this, dammit](https://data-goblins.com/power-bi/mental-health)
 - [Kellyn Pot’Vin Gorman](https://twitter.com/DBAKevlar) - [ADHD and Certification Tests- A Tale of Disaster](https://dbakevlar.com/2019/12/adhd-and-certification-tests-a-tale-of-disaster/)
 - [Eugene Meidinger](https://twitter.com/sqlgene) - [How I deal with depression](https://www.sqlgene.com/2018/11/06/how-i-deal-with-depression/)
