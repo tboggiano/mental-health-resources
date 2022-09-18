@@ -49,6 +49,17 @@ I ask if you are going to contribute to this list to if it something that doesn'
 - [Workplace Mental Health – Mental Health Topics](http://www.workplacementalhealth.org/Mental-Health-Topics)
 - [World Health Organization – Mental Health in the Workplace](https://www.who.int/mental_health/in_the_workplace/en/)
 
+## Mental Health in the Workplace Resources
+- [Guide for employees: Wellness Action Plans (WAPs)](https://bit.ly/34MxLAx)
+- [Guide for line managers: Wellness Action Plans (WAPs) How to support the mental health of your team members](https://bit.ly/3LOWIvK)
+- [Job Accommodation Network: Accommodation and Compliance: Mental Health Conditions](https://bit.ly/3vteUW5)
+- [Mental Health at Work: Your first stop for better Mental Health at Work](https://bit.ly/36BeodY)
+- [Navigating Mental Health at Work: A Reading List](https://bit.ly/36FD0SR)
+- [Strategies to Address Mental Health in the Workplace](https://bit.ly/3hpjXOO)
+- [Toolkits & Downloadables for Workplace Mental Health](https://bit.ly/3hkX4vR)
+- [Wellness Action Plan (WAP) Template](https://bit.ly/3I3UjuP)
+- [Workplace prevention of mental health problems: GUIDELINES FOR ORGANISATIONS](https://bit.ly/3M0Ijg5)
+
 ## Other Presensations
 
 ## Other Podcasts
@@ -65,3 +76,5 @@ I ask if you are going to contribute to this list to if it something that doesn'
 - [Snap Out Of It! The Mental Illness in the Workplace Podcase with Natasha Tracy](https://natashatracy.com/mental-illness-work-podcast-natasha-tracy-snap-out-of-it/)
 
 ## Books
+- [Mental Health and Wellbeing in the Workplace: A Practical Guide for Employers and Employees](https://amzn.to/36QLfMh)
+- [Reduce Mental Health Stigma In The Workplace: 5 Ways To Save Money and Support Your Local Community](https://amzn.to/3IlUTEl)
