@@ -7,6 +7,7 @@ I ask if you are going to contribute to this list to if it something that doesn'
 
 # In A Crisis Please Go Here and Find a Number to Call and Ask for Help
 - [Mental Health Hotline Numbers and Referral Resources](https://www.healthyplace.com/other-info/resources/mental-health-hotline-numbers-and-referral-resources)
+- [Suicide Hotlines and Prevention Resources Around the World](https://www.psychologytoday.com/us/basics/suicide/suicide-prevention-hotlines-resources-worldwide)
 
 ## Community Member's Blog Posts
 - [Taiob Ali](https://twitter.com/SqlWorldWide) – [T-SQL Tuesday #132 Roundup](https://sqlworldwide.com/tsql-tuesday-132-roundup/) - The community got together for a blog party on mental health during the middle of the pandemic.  There are 21 blog posts from the community for you to read here.
